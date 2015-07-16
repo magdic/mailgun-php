@@ -1,0 +1,15 @@
+{
+    "name": "mcordero/mailgun",
+    "description": "Mailgun api",
+    "license": "free",
+    "authors": [
+        {
+            "name": "Magdiel Cordero",
+            "email": "contact@magdielcordero.info"
+        }
+    ],
+    "require": {
+        "mailgun/mailgun-php":"~1.7.2"
+
+    }
+}

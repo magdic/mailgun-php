@@ -1,0 +1,29 @@
+body {
+	font: 100% Tahoma, sans-serif;
+}
+.container {
+	width: 100%;
+	max-width: 400px;
+}
+form .field {
+	margin-bottom: 10px;
+}
+input[type="text"],
+textarea {
+	width: 100%
+	padding:10px;
+	font-size: 1em;
+	border: 1px solid #ccc;
+}
+label input[type="text"],
+label textarea {
+	margin-top: 5px;
+}
+.button {
+	background: #73A2BD;
+	border: 0;
+	border-bottom: 4px solid #6690a9;
+	color: #f0f0f0;
+	padding: 10px 12px;
+	font-size: 1em;
+}
